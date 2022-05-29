@@ -1,0 +1,16 @@
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\bin\Debug\net5.0\WS1.exe
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\bin\Debug\net5.0\WS1.deps.json
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\bin\Debug\net5.0\WS1.runtimeconfig.json
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\bin\Debug\net5.0\WS1.runtimeconfig.dev.json
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\bin\Debug\net5.0\WS1.dll
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\bin\Debug\net5.0\WS1.pdb
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\obj\Debug\net5.0\WS1.csproj.AssemblyReference.cache
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\obj\Debug\net5.0\WS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\obj\Debug\net5.0\WS1.AssemblyInfoInputs.cache
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\obj\Debug\net5.0\WS1.AssemblyInfo.cs
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\obj\Debug\net5.0\WS1.csproj.CoreCompileInputs.cache
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\obj\Debug\net5.0\WS1.dll
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\obj\Debug\net5.0\refint\WS1.dll
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\obj\Debug\net5.0\WS1.pdb
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\obj\Debug\net5.0\WS1.genruntimeconfig.cache
+C:\Users\hieuh\Documents\GitHub\PRN221_HE153401\WS1\WS1\obj\Debug\net5.0\ref\WS1.dll
