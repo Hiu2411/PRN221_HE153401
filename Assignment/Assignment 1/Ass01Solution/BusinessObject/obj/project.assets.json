@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT\\Summer 2022\\PRN211\\Assignment\\Assignment 1\\Ass01Solution\\BusinessObject\\BusinessObject.csproj",
+      "projectUniqueName": "C:\\Users\\hieuh\\Documents\\GitHub\\PRN221_HE153401\\Assignment1_HE153401\\Assignment\\Assignment 1\\Ass01Solution\\BusinessObject\\BusinessObject.csproj",
       "projectName": "BusinessObject",
-      "projectPath": "D:\\FPT\\Summer 2022\\PRN211\\Assignment\\Assignment 1\\Ass01Solution\\BusinessObject\\BusinessObject.csproj",
+      "projectPath": "C:\\Users\\hieuh\\Documents\\GitHub\\PRN221_HE153401\\Assignment1_HE153401\\Assignment\\Assignment 1\\Ass01Solution\\BusinessObject\\BusinessObject.csproj",
       "packagesPath": "C:\\Users\\hieuh\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT\\Summer 2022\\PRN211\\Assignment\\Assignment 1\\Ass01Solution\\BusinessObject\\obj\\",
+      "outputPath": "C:\\Users\\hieuh\\Documents\\GitHub\\PRN221_HE153401\\Assignment1_HE153401\\Assignment\\Assignment 1\\Ass01Solution\\BusinessObject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
